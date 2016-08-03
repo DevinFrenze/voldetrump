@@ -1,0 +1,19 @@
+{
+  "name": "trump-voldemort",
+  "version": "1.0.0",
+  "description": "converts the word 'Trump' to 'Voldemort' on any webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "config": "gulp config",
+    "dist": "gulp dist"
+  },
+  "author": "Devin Frenze",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-zip": "^3.2.0"
+  }
+}
