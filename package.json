@@ -1,5 +1,5 @@
 {
-  "name": "trump-voldemort",
+  "name": "voldetrump",
   "version": "1.0.1",
   "description": "converts the word 'Trump' to 'Voldemort' on any webpage",
   "main": "index.js",
