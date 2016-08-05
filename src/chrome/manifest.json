@@ -13,7 +13,7 @@
     ],
     "run_at": "document_end"
   }],
-  "name": "trump-voldemort",
+  "name": "voldetrump",
   "description": "converts the word 'Trump' to 'Voldemort' on any webpage",
   "version": "1.0.1",
   "author": "Devin Frenze"
