@@ -15,5 +15,9 @@
     "gulp-json-editor": "^2.2.1",
     "gulp-shell": "^0.5.2",
     "gulp-zip": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevinFrenze/voldetrump"
   }
 }
