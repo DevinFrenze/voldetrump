@@ -4,6 +4,11 @@
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "license": "MIT",
   "keywords": [
     "jetpack"
