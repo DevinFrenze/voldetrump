@@ -1,6 +1,6 @@
 {
   "name": "voldetrump",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "converts the word 'Trump' to 'Voldemort' on any webpage",
   "main": "index.js",
   "scripts": {

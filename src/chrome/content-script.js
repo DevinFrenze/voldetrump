@@ -9,8 +9,8 @@ function replaceWords() {
 
           if (node.nodeType === 3) {
               var text = node.nodeValue;
-              var replacedText = text.replace(/Trump/g, 'Voldemort');
-
+              var replacedText = text.replace(/(Donald\s?([(J\.?)(John)]*\s)?)?Trump/g, 'Voldemort');
+                            
               if (replacedText !== text) {
                   element.replaceChild(document.createTextNode(replacedText), node);
               }
